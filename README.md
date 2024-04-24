@@ -16,10 +16,15 @@ Libraries used in this project:
 This project was generated with educational porpuses.
 
 CNN result:
+
 ![image](https://github.com/Santi-H-98/Car_Brand_Predictor/assets/147663147/bbe6527a-1e61-40c0-b347-72763061f5df)
 ![image](https://github.com/Santi-H-98/Car_Brand_Predictor/assets/147663147/284b20aa-a606-4558-b1e6-43f877bf7110)
 
 
 YOLOv8 result:
+
 ![image](https://github.com/Santi-H-98/Car_Brand_Predictor/assets/147663147/457c02d3-2334-4dd3-ad98-a8792a45e3ec)
 ![image](https://github.com/Santi-H-98/Car_Brand_Predictor/assets/147663147/49451f1e-ff11-4892-a97e-ca4d6c90a721)
+![audi-1- Predicted](https://github.com/Santi-H-98/Car_Brand_Predictor/assets/147663147/c995cdf1-ce98-44f4-bbd8-22e6e93343fa)
+![Ferrari-Predicted](https://github.com/Santi-H-98/Car_Brand_Predictor/assets/147663147/847c5c7a-5203-4524-a0a0-cbe8116dd6ea)
+
