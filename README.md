@@ -14,3 +14,5 @@ Libraries used in this project:
 * Matplotlib
 
 This project was generated with educational porpuses.
+![image](https://github.com/Santi-H-98/Car_Brand_Predictor/assets/147663147/bbe6527a-1e61-40c0-b347-72763061f5df)
+![image](https://github.com/Santi-H-98/Car_Brand_Predictor/assets/147663147/284b20aa-a606-4558-b1e6-43f877bf7110)
