@@ -25,6 +25,6 @@ YOLOv8 result:
 
 ![image](https://github.com/Santi-H-98/Car_Brand_Predictor/assets/147663147/457c02d3-2334-4dd3-ad98-a8792a45e3ec)
 ![image](https://github.com/Santi-H-98/Car_Brand_Predictor/assets/147663147/49451f1e-ff11-4892-a97e-ca4d6c90a721)
-![audi-1- Predicted](https://github.com/Santi-H-98/Car_Brand_Predictor/assets/147663147/c995cdf1-ce98-44f4-bbd8-22e6e93343fa)
 ![Ferrari-Predicted](https://github.com/Santi-H-98/Car_Brand_Predictor/assets/147663147/847c5c7a-5203-4524-a0a0-cbe8116dd6ea)
+![Jeep-Predicted](https://github.com/Santi-H-98/Car_Brand_Predictor/assets/147663147/54ba5bf8-e63e-4501-8cbe-1aa51ec2869c)
 
